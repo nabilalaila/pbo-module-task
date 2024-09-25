@@ -56,7 +56,7 @@ namespace Tugas_PBO_1
             singa1.Mengaum();
             Console.WriteLine();
 
-            Console.WriteLine("Auman Singa :");
+            Console.WriteLine("Rayapan Ular :");
             ular1.Merayap();
             Console.WriteLine();
 
